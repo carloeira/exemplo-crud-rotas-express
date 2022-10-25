@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "produto": "tenis",
+        "usuario": 1,
+        "quantidade": 5
+    },
+    {
+        "id": 2,
+        "produto": "camisa",
+        "usuario": 2,
+        "quantidade": 10
+    },
+    {
+        "id": 3,
+        "produto": "headset",
+        "usuario": 1,
+        "quantidade": 7
+    },
+    {
+        "id": 4,
+        "produto": "bermuda",
+        "usuario": 3,
+        "quantidade": 5
+    },
+    {
+        "id": 5,
+        "produto": "relogio",
+        "usuario": 2,
+        "quantidade": 3
+    }
+]
